@@ -4,7 +4,8 @@ out/
 !**/src/test/**/out/
 .idea/
 out/
-hm2body.iml/
+hm2body.iml
+
 gitignore/
 
 ### Eclipse ###
