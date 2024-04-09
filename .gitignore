@@ -3,7 +3,8 @@ out/
 !**/src/main/**/out/
 !**/src/test/**/out/
 .idea/
-.iml\
+out/
+hm2body.iml/
 gitignore/
 
 ### Eclipse ###
